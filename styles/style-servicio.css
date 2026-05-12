@@ -1,0 +1,36 @@
+.informacion {
+    background-color: #eeeff1;
+    padding: 20px;
+}
+
+.informacion h1 {
+    color: #1a1c20;
+    font-size: 30px;
+}
+
+.servicio {
+    display:flex;
+    flex-direction: column;
+    background-color: #5871e0;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.servicio h2 {
+    color: #1a1c20;
+    font-size: 25px;
+}
+
+.parte-servicio {
+    display:flex;
+    flex-direction: column;
+    background-color: #36468d;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.parte-servicio h3 {
+    color: #1a1c20;
+    font-size: 20px;
+}
